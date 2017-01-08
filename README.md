@@ -16,4 +16,5 @@ It is the main function ,create the movie instance and a movie list which is tra
 4. open the fresh_tomatoes.html with your favorive browser
 
 ## Alternative Method of Running
-1.open the fresh_tomatoes.html with your favorive browser
+1. open the fresh_tomatoes.html with your favorive browser
+
