@@ -3,6 +3,7 @@ import webbrowser
 
 # this is a class for movie blueprint
 class Movie():
+    """this the movie class"""
     def __init__(self,
                  movie_title,
                  movie_storyline,
