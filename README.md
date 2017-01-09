@@ -12,7 +12,7 @@ It is the main function ,create the movie instance and a movie list which is tra
 ## Running
 1. Download the zip File and unZip in a Folder
 2. need python 2.7 installed
-3. run this commend from the Zip Folder : <pre><code> python fresh_tomatoes.py<code><pre>
+3. run this commend from the Zip Folder : <pre><code> python entertainment_center.py<code><pre>
 4. open the fresh_tomatoes.html with your favorive browser
 
 ## Alternative Method of Running
